@@ -1,5 +1,6 @@
 *{
-   text-shadow: 5cap;
+   background-color: aquamarine;
+   font-size: larger;
 }
 
 .cabecera{
@@ -7,5 +8,5 @@
     justify-content: center;
     
     background-color: black;
-    color: bisque;
+    color: white;
 }
