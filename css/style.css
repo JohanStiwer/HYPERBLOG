@@ -1,7 +1,11 @@
 *{
-    color: black;
+   
 }
 
-h2{
-    background-color: aqua;
+.cabecera{
+    text-align: center;
+    justify-content: center;
+    
+    background-color: black;
+    color: bisque;
 }
