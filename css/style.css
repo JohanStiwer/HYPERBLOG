@@ -1,12 +1,9 @@
 *{
-   background-color: red;
+   background-color: #f1f1f1;
    font-size: larger;
 }
 
 .cabecera{
     text-align: center;
-    justify-content: center;
-    
-    background-color: black;
-    color: white;
-}
+    justify-content: center;    
+    }
