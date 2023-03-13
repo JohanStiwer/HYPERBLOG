@@ -1,5 +1,5 @@
 *{
-   background-color: red;
+   background-color: #f1f1f1;
    font-size: larger;
 }
 
@@ -9,4 +9,9 @@
     
     background-color: black;
     color: white;
+}
+footer{
+    text-align: end;
+    font-size: small;
+    color: gray;
 }
